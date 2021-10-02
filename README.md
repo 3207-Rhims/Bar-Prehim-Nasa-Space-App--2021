@@ -8,7 +8,6 @@ Our Problem is  Identifying the risk with science and communities.
 
 Website UI  --- ![web](https://user-images.githubusercontent.com/53826751/135718199-064aa1be-df8b-4d46-984c-7af523946dd6.JPG)
 
-ANdroid APP API  --- ![1 (2)](https://user-images.githubusercontent.com/53826751/135718215-cfd49018-1abd-4b8e-8678-183e87ae748a.png)
 
 Game First Look --- ![image](https://user-images.githubusercontent.com/53826751/135718260-9d70d810-ed5c-4048-9447-8cc89013a41c.png)
 
@@ -67,4 +66,6 @@ The Output of this Project:
 Future Plan:
 
 We will keep our app updated & more features will be added Soon. We want to use augmented reality to visualize data  & the damage status.
+
+ANdroid APP API  --- ![1 (2)](https://user-images.githubusercontent.com/53826751/135718215-cfd49018-1abd-4b8e-8678-183e87ae748a.png)
 
